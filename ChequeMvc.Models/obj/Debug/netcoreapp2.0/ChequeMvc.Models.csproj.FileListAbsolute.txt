@@ -1,0 +1,16 @@
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.deps.json
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.dll
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.pdb
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.csproj.CoreCompileInputs.cache
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.AssemblyInfoInputs.cache
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.AssemblyInfo.cs
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.dll
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.pdb
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.deps.json
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.dll
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\bin\Debug\netcoreapp2.0\ChequeMvc.Models.pdb
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.csproj.CoreCompileInputs.cache
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.AssemblyInfoInputs.cache
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.AssemblyInfo.cs
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.dll
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Models\obj\Debug\netcoreapp2.0\ChequeMvc.Models.pdb

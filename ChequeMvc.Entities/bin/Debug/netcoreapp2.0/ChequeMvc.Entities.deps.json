@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ChequeMvc.Entities/1.0.0": {
+        "dependencies": {
+          "ChequeMvc.Services": "1.0.0"
+        },
+        "runtime": {
+          "ChequeMvc.Entities.dll": {}
+        }
+      },
+      "ChequeMvc.Services/1.0.0": {
+        "runtime": {
+          "ChequeMvc.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChequeMvc.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChequeMvc.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

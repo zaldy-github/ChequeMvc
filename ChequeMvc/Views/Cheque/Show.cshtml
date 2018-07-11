@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Show Cheque";
+}
+
+<style>
+    .chequeBackGround {
+        background: #e9f6fd;
+        background: -moz-linear-gradient(top, #e9f6fd 0%, #d3eefb 100%);
+        background: -webkit-linear-gradient(top, #e9f6fd 0%,#d3eefb 100%);
+        background: linear-gradient(to bottom, #e9f6fd 0%,#d3eefb 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9f6fd', endColorstr='#d3eefb',GradientType=0 );
+    }
+</style>
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row table-bordered chequeBackGround" style="border-color: blue">
+    <div style="margin-bottom: 0">
+        <div class="col-sm-10">
+            <h2 style="margin-bottom: 0">MODEL-VIEW-CONTROLLER BANK</h2>
+            <h5 style="margin-top: 0">1 MVC Way Branch</h5>
+        </div>
+        <div class="col-sm-2 text-right">
+            <h5>01-02-03</h5>
+        </div>
+    </div>
+    <hr>
+    <div style="margin-top: 0">
+        <div class="col-sm-10">
+            <h5 style="margin-bottom: 0">Pay to</h5>
+            <h3 style="margin-top: 0; font-variant: small-caps">@ViewData["chequePayee"]</h3>
+        </div>
+        <div class="col-sm-2 text-right">
+            <h5 style="margin-bottom: 0">Date</h5>
+            <h3 style="margin-top: 0">@ViewData["chequeDate"]</h3>
+        </div>
+    </div>
+    <div style="margin-top: 0">
+        <div class="col-sm-9">
+            <h5 style="margin-bottom: 0">The amount of</h5>
+            <h3 style="margin-top: 0; font-variant: small-caps">@ViewData["amountInWords"]</h3>
+        </div>
+        <div class="col-sm-3 text-right">
+            <h5 style="margin-bottom: 0">&nbsp;</h5>
+            <h3 style="margin-top: 0">$@ViewData["chequeamount"]</h3>
+        </div>
+    </div>
+    <div>
+        <div class="col-sm-6"></div>
+        <div class="col-sm-6 text-right">
+            <br /><br />
+            <div style="border-bottom: 1px dotted blue">
+                <h3 class="text-center" style="font-family: 'Segoe Script'; font-weight: bold; color: blue">Zaldy De Leon</h3>
+            </div>
+            <br />
+        </div>
+    </div>
+    <div>
+        <div class="col-sm-4">
+            <h6 style="margin-bottom: 0">Cheque number</h6>
+            <h5 style="margin-top: 0">00123456</h5>
+        </div>
+        <div class="col-sm-4 text-center">
+            <h6 style="margin-bottom: 0">Branch code</h6>
+            <h5 style="margin-top: 0">000-001</h5>
+        </div>
+        <div class="col-sm-4 text-right">
+            <h6 style="margin-bottom: 0">Account number</h6>
+            <h5 style="margin-top: 0">000-001-987654321</h5>
+        </div>
+    </div>
+</div>

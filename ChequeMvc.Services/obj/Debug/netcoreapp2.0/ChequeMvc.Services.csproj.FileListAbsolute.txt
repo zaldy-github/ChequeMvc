@@ -1,0 +1,16 @@
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.deps.json
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.dll
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.pdb
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.AssemblyInfoInputs.cache
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.AssemblyInfo.cs
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.dll
+C:\Users\zaldy.deleon\Various\Projects\VS2017\DotNet\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.pdb
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.deps.json
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.dll
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\bin\Debug\netcoreapp2.0\ChequeMvc.Services.pdb
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.csproj.CoreCompileInputs.cache
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.AssemblyInfoInputs.cache
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.AssemblyInfo.cs
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.dll
+C:\Users\zaldy\Desktop\Career\Talenza\ChequeMvc\ChequeMvc.Services\obj\Debug\netcoreapp2.0\ChequeMvc.Services.pdb
